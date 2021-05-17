@@ -157,15 +157,3 @@ int main()
          cout << "Time required for all oranges to rot => " << ans << endl; 
     return 0; 
 } 
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
